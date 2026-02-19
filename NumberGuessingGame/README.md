@@ -19,4 +19,4 @@ This is a Python based small game where the computer selects a number between 1 
 - Exception handling through `try-except` block.
 
 ---
-**Author:** [Ishan]
+**Author:**  Codes With Ishan
