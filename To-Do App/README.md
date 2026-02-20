@@ -13,13 +13,13 @@ A simple yet powerful command-line interface (CLI) based to-do application built
 - Validates numeric input for menu selection and deletion.
 - **Encoding Support:** Uses `utf-8` to ensure compatibility with different languages ​​and symbols.
 
-## 🛠️ Technologies Used
-- **Python 3.x**
-- **Modules:**
-- `datetime`: To generate accurate timestamps.
-- `time`: To improve user experience (UX) with delays.
+## How to Run
+1. You must have Python installed on your PC.
+2. Download the code.
+3. Type in the terminal: `python main.py`
 
-## 🚀 How to Run
-1. **Clone the repository:**
-``bash
-git clone https://github.com
+## 🛠️ Technologies Used
+**Python 3.x**
+**Modules:**
+`datetime`: To generate accurate timestamps.
+`time`: To improve user experience (UX) with delays.
