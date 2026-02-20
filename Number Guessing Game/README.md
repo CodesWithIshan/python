@@ -14,10 +14,5 @@ This is a Python based small game where the computer selects a number between 1 
 2. Download the code.
 3. Type in the terminal: `python main.py`
 
-## What I learned (Learning Outcomes)
-- Use of Python `random` module.
-- `while` loop and conditional logic.
-- Exception handling through `try-except` block.
-
 ---
 **Author:**  Codes With Ishan
