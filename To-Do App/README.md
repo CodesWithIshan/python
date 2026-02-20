@@ -18,8 +18,5 @@ A simple yet powerful command-line interface (CLI) based to-do application built
 2. Download the code.
 3. Type in the terminal: `python main.py`
 
-## 🛠️ Technologies Used
-**Python 3.x**
-**Modules:**
-`datetime`: To generate accurate timestamps.
-`time`: To improve user experience (UX) with delays.
+---
+**Author:**  Codes With Ishan
